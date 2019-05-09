@@ -1,5 +1,13 @@
 # Films 'n Fawties
 
+## Adding new Films
+Create a pull request with the addition. New films going forward should include a link to the IMDB page, or if possible a link to reelgood showing where streaming is available.
+
+Example: 
+- [ ] [Top Gun](https://reelgood.com/movie/top-gun-1986)
+
+If you're adding several to group together for an evening, assign them an unused emoji to show the pariing. 
+
 ## To Watch
 ##### Pairings are prefixed with matching emoji
 - [ ] Breakin 2
