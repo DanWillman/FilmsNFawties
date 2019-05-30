@@ -33,7 +33,6 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] Team America
 - [ ] Wayne's World
 - [ ] Dumb and Dumber
-- [ ] [Abraham Lincoln Vampire Slayer](https://www.imdb.com/title/tt1611224/)
 - [ ] [Forest Gump](https://www.imdb.com/title/tt0109830/)
 
 ### Blocks
@@ -63,6 +62,10 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] Silent Night (2012)
 - [ ] Silent Night, Deadly Night (1984)
 - [ ] Better Off Dead
+
+# Seen
+- [x] [Top Gun](https://reelgood.com/movie/top-gun-1986)
+- [x] [Abraham Lincoln Vampire Slayer](https://www.imdb.com/title/tt1611224/)
 
 ## Seen (Migrated from iCloud)
 - [x] Rapture-palooza
