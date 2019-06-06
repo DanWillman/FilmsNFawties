@@ -10,8 +10,8 @@ If you're adding several to group together for an evening, assign them an unused
 
 ## To Watch
 ##### Pairings are prefixed with matching emoji
-- [ ] Breakin 2
-- [ ] Dude Where's My Car
+- [ ] [Breakin 2: Electric Boogaloo](https://reelgood.com/movie/breakin-2-electric-boogaloo-1984)
+- [ ] [Dude Where's My Car](https://reelgood.com/movie/dude-wheres-my-car-2000)
 - [ ] :boom:Scott Pilgrim
 - [ ] :boom:The Social Network
 - [ ] :facepunch:The Last Dragon
@@ -19,21 +19,30 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] :poop:Paul Blart
 - [ ] :poop:Paul Blart 2
 - [ ] Blade Runner 2049
-- [ ] Princess Bride
+- [ ] [Princess Bride](https://reelgood.com/movie/the-princess-bride-1987)
 - [ ] :musical_note:Detroit Rock City
 - [ ] :musical_note:Blues Brothers
 - [ ] :musical_note:Rocky Horror
 - [ ] :musical_note:Little Shop of Horrors
 - [ ] :-1:Strange Brew
 - [ ] :-1:Evil Bong
-- [ ] Howard the Duck
+- [ ] [Howard the Duck](https://reelgood.com/movie/howard-the-duck-1986)
 - [ ] Avenue Q 
-- [ ] Team America
-- [ ] Wayne's World
-- [ ] Dumb and Dumber
+- [ ] [Team America](https://reelgood.com/movie/team-america-world-police-2004)
+- [ ] [Dumb and Dumber](https://reelgood.com/movie/dumb-and-dumber-1994)
 - [ ] [Forest Gump](https://www.imdb.com/title/tt0109830/)
+- [ ] [Hardcore Henry](https://reelgood.com/movie/hardcore-henry-2015)
+- [ ] [Momento](https://reelgood.com/movie/memento-2000)
+- [ ] [Dead Poets Society](https://reelgood.com/movie/dead-poets-society-1989)
+- [ ] [Justini Bieber: Never Say Never](https://reelgood.com/movie/justin-bieber-never-say-never-2011)
 
 ### Blocks
+
+### MTV Block
+- [ ] [Ferris Beullers Day Off](https://reelgood.com/movie/ferris-buellers-day-off-1986)
+- [ ] [Wayne's World](https://reelgood.com/movie/waynes-world-1992)
+- [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
+
 #### Keanu Block
 - [ ] [:gun:John Wick](https://reelgood.com/movie/john-wick-2014)
 - [ ] [:gun:John Wick 2](https://reelgood.com/movie/john-wick-chapter-2-2017)
