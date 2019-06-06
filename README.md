@@ -36,6 +36,19 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Forest Gump](https://www.imdb.com/title/tt0109830/)
 
 ### Blocks
+#### Keanu Block
+- [ ] [:gun:John Wick](https://reelgood.com/movie/john-wick-2014)
+- [ ] [:gun:John Wick 2](https://reelgood.com/movie/john-wick-chapter-2-2017)
+- [ ] [Bill And Ted's Excellent Adventure](https://reelgood.com/movie/bill-teds-excellent-adventure-1989)
+- [ ] [Point Break](https://reelgood.com/movie/point-break-1991)
+- [ ] [Speed](https://reelgood.com/movie/speed-1994)
+- [ ] [:sunglasses:The Matrix](https://reelgood.com/movie/the-matrix-1999)
+- [ ] [:sunglasses:The Matrix: Reloaded](https://reelgood.com/movie/the-matrix-reloaded-2003)
+- [ ] [:sunglasses:The Matrix: Revolutions](https://reelgood.com/movie/the-matrix-revolutions-2003)
+- [ ] [Johnny Mnemonic](https://reelgood.com/movie/johnny-mnemonic-1995)
+- [ ] [Constatine](https://reelgood.com/movie/constantine-2005)
+- [ ] [A Scanner Darkly](https://reelgood.com/movie/a-scanner-darkly-2006)
+
 #### Nic Cage
 - [ ] Raising Arizona
 - [ ] National Treasure
