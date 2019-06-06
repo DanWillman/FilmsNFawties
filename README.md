@@ -20,8 +20,6 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] :poop:Paul Blart 2
 - [ ] Blade Runner 2049
 - [ ] Princess Bride
-- [ ] :tada:Fargo
-- [ ] :tada:Drop Dead Gorgeous
 - [ ] :musical_note:Detroit Rock City
 - [ ] :musical_note:Blues Brothers
 - [ ] :musical_note:Rocky Horror
@@ -79,6 +77,8 @@ If you're adding several to group together for an evening, assign them an unused
 # Seen
 - [x] [Top Gun](https://reelgood.com/movie/top-gun-1986)
 - [x] [Abraham Lincoln Vampire Slayer](https://www.imdb.com/title/tt1611224/)
+- [x] :tada:Fargo
+- [x] :tada:Drop Dead Gorgeous
 
 ## Seen (Migrated from iCloud)
 - [x] Rapture-palooza
