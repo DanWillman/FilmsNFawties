@@ -40,7 +40,6 @@ If you're adding several to group together for an evening, assign them an unused
 
 ### MTV Block
 - [ ] [Ferris Beullers Day Off](https://reelgood.com/movie/ferris-buellers-day-off-1986)
-- [ ] [Wayne's World](https://reelgood.com/movie/waynes-world-1992)
 - [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
 
 #### Keanu Block
@@ -84,24 +83,36 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] Better Off Dead
 
 # Seen
-- [x] [Top Gun](https://reelgood.com/movie/top-gun-1986)
-- [x] [Abraham Lincoln Vampire Slayer](https://www.imdb.com/title/tt1611224/)
-- [x] :tada:Fargo
-- [x] :tada:Drop Dead Gorgeous
-
-## Seen (Migrated from iCloud)
+- [x] Knights of Badassdom
+- [x] Dr Horrible's Sing-along Blog
+- [x] The Machine Girl
+- [x] The Room
+- [x] The Disaster Artist
 - [x] Rapture-palooza
 - [x] This is the end
 - [x] Shaun of the Dead
 - [x] Hot Fuzz
 - [x] Cabin in the Woods
 - [x] Tucker and Dale Versus Evil
-- [x] Blade Runner
 - [x] Pacific Rim
 - [x] Pacific Rim 2
+- [x] Hurricane Heist
+- [x] Vampire's Kiss
+- [x] Con Air
+- [x] Wickerman
+- [x] Face/Off
+- [x] Blade Runner
+- [x] Space Jam
+- [x] [Top Gun](https://reelgood.com/movie/top-gun-1986)
+- [x] [Abraham Lincoln Vampire Slayer](https://www.imdb.com/title/tt1611224/)
+- [x] :tada:Fargo
+- [x] :tada:Drop Dead Gorgeous
+- [x] [Wayne's World](https://reelgood.com/movie/waynes-world-1992)
+- [x] Wayne's World 2
 
 #### Christmas Block
 - [x] Die Hard
 - [x] Jingle All the Way
 - [x] Santa's Slay
 - [x] The Gingerdead Man
+- [x] Die Hard
