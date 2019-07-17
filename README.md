@@ -48,8 +48,6 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Speed](https://reelgood.com/movie/speed-1994)
 - [ ] [:sunglasses:The Matrix: Revolutions](https://reelgood.com/movie/the-matrix-revolutions-2003)
 - [ ] [Johnny Mnemonic](https://reelgood.com/movie/johnny-mnemonic-1995)
-- [ ] [Constatine](https://reelgood.com/movie/constantine-2005)
-- [ ] [A Scanner Darkly](https://reelgood.com/movie/a-scanner-darkly-2006)
 - [ ] [Keanu](https://reelgood.com/movie/keanu-2016)
 
 #### Nic Cage
@@ -110,6 +108,8 @@ If you're adding several to group together for an evening, assign them an unused
 - [x] [:gun:John Wick 2](https://reelgood.com/movie/john-wick-chapter-2-2017)
 - [x] [:sunglasses:The Matrix](https://reelgood.com/movie/the-matrix-1999)
 - [x] [:sunglasses:The Matrix: Reloaded](https://reelgood.com/movie/the-matrix-reloaded-2003)
+- [X] [Constatine](https://reelgood.com/movie/constantine-2005)
+- [X] [A Scanner Darkly](https://reelgood.com/movie/a-scanner-darkly-2006)
 
 #### Christmas Block
 - [x] Die Hard
