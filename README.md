@@ -35,6 +35,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Momento](https://reelgood.com/movie/memento-2000)
 - [ ] [Dead Poets Society](https://reelgood.com/movie/dead-poets-society-1989)
 - [ ] [Justin Bieber: Never Say Never](https://reelgood.com/movie/justin-bieber-never-say-never-2011)
+- [ ] [Blind Fury](https://reelgood.com/movie/blind-fury-1989)
 
 ### Blocks
 
