@@ -39,17 +39,20 @@ If you're adding several to group together for an evening, assign them an unused
 
 ### Blocks
 
+### Cop Block
+- [ ] [Dredd](https://reelgood.com/movie/dredd-2012)
+- [ ] [District 9](https://reelgood.com/movie/district-9-2009)
+- [ ] [The Usual Suspects](https://reelgood.com/movie/the-usual-suspects-1995)
+- [ ] [Superbad](https://reelgood.com/movie/superbad-2007)
+- [ ] [Lethal Weapon](https://reelgood.com/movie/lethal-weapon-1987)
+
+
 ### MTV Block
 - [ ] [Ferris Beullers Day Off](https://reelgood.com/movie/ferris-buellers-day-off-1986)
 - [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
 
 #### Keanu Block
-- [ ] [Bill And Ted's Excellent Adventure](https://reelgood.com/movie/bill-teds-excellent-adventure-1989)
-- [ ] [Point Break](https://reelgood.com/movie/point-break-1991)
-- [ ] [Speed](https://reelgood.com/movie/speed-1994)
 - [ ] [:sunglasses:The Matrix: Revolutions](https://reelgood.com/movie/the-matrix-revolutions-2003)
-- [ ] [Johnny Mnemonic](https://reelgood.com/movie/johnny-mnemonic-1995)
-- [ ] [Keanu](https://reelgood.com/movie/keanu-2016)
 
 #### Nic Cage
 - [ ] Raising Arizona
@@ -111,6 +114,18 @@ If you're adding several to group together for an evening, assign them an unused
 - [x] [:sunglasses:The Matrix: Reloaded](https://reelgood.com/movie/the-matrix-reloaded-2003)
 - [X] [Constatine](https://reelgood.com/movie/constantine-2005)
 - [X] [A Scanner Darkly](https://reelgood.com/movie/a-scanner-darkly-2006)
+- [X] [Bill And Ted's Excellent Adventure](https://reelgood.com/movie/bill-teds-excellent-adventure-1989)
+- [X] [Point Break](https://reelgood.com/movie/point-break-1991)
+- [X] [Speed](https://reelgood.com/movie/speed-1994)
+- [X] [Johnny Mnemonic](https://reelgood.com/movie/johnny-mnemonic-1995)
+- [X] [Keanu](https://reelgood.com/movie/keanu-2016)
+- [X] [The Fifth Element](https://reelgood.com/movie/the-fifth-element-1997)
+- [X] [Rush Hour](https://reelgood.com/movie/rush-hour-1998)
+- [X] [Reservoir Dogs](https://reelgood.com/movie/reservoir-dogs-1992)
+- [X] [Super Troopers](https://reelgood.com/movie/super-troopers-2001)
+- [X] [Hot Fuzz](https://reelgood.com/movie/hot-fuzz-2007)
+- [X] [Police Academy](https://reelgood.com/movie/police-academy-1984)
+- [X] [Robocop](https://reelgood.com/movie/robocop-1987)
 
 #### Christmas Block
 - [x] Die Hard
