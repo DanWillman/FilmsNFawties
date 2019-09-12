@@ -36,6 +36,12 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Dead Poets Society](https://reelgood.com/movie/dead-poets-society-1989)
 - [ ] [Justin Bieber: Never Say Never](https://reelgood.com/movie/justin-bieber-never-say-never-2011)
 - [ ] [Blind Fury](https://reelgood.com/movie/blind-fury-1989)
+- [ ] [Get Out](https://reelgood.com/movie/get-out-2017)
+- [ ] 🧠[Spy Kids](https://reelgood.com/movie/spy-kids-2001)
+- [ ] 🧠[Spy Kids 2](https://reelgood.com/movie/spy-kids-2-the-island-of-lost-dreams-2002)
+- [ ] [Saving Face](https://reelgood.com/movie/saving-face-2004)
+- [ ] [Muppets Treasure Island](https://reelgood.com/movie/muppet-treasure-island-1996)
+- [ ] [Homeward Bound](https://reelgood.com/movie/homeward-bound-the-incredible-journey-1993)
 
 ### Blocks
 
