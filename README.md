@@ -46,9 +46,6 @@ If you're adding several to group together for an evening, assign them an unused
 ### Blocks
 
 ### Cop Block
-- [ ] [Dredd](https://reelgood.com/movie/dredd-2012)
-- [ ] [District 9](https://reelgood.com/movie/district-9-2009)
-- [ ] [The Usual Suspects](https://reelgood.com/movie/the-usual-suspects-1995)
 - [ ] [Superbad](https://reelgood.com/movie/superbad-2007)
 - [ ] [Lethal Weapon](https://reelgood.com/movie/lethal-weapon-1987)
 
@@ -81,6 +78,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] War Games
 - [ ] Sneakers
 - [ ] Antitrust
+- [ ] Kung Fury
 
 #### Christmas
 - [ ] Silent Night (2012)
@@ -132,6 +130,9 @@ If you're adding several to group together for an evening, assign them an unused
 - [X] [Hot Fuzz](https://reelgood.com/movie/hot-fuzz-2007)
 - [X] [Police Academy](https://reelgood.com/movie/police-academy-1984)
 - [X] [Robocop](https://reelgood.com/movie/robocop-1987)
+- [X] [Dredd](https://reelgood.com/movie/dredd-2012)
+- [X] [District 9](https://reelgood.com/movie/district-9-2009)
+- [X] [The Usual Suspects](https://reelgood.com/movie/the-usual-suspects-1995)
 
 #### Christmas Block
 - [x] Die Hard
