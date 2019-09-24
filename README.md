@@ -42,6 +42,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Saving Face](https://reelgood.com/movie/saving-face-2004)
 - [ ] [Muppets Treasure Island](https://reelgood.com/movie/muppet-treasure-island-1996)
 - [ ] [Homeward Bound](https://reelgood.com/movie/homeward-bound-the-incredible-journey-1993)
+- [ ] [Spider-man: Into the Spider-Verse](https://reelgood.com/movie/spider-man-into-the-spider-verse-2018)
 
 ### Blocks
 
