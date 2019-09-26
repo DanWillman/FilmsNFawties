@@ -120,7 +120,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [x] [Blade Runner](https://reelgood.com/movie/blade-runner-1982)
 - [x] [Space Jam](https://reelgood.com/movie/space-jam-1996)
 - [x] [Top Gun](https://reelgood.com/movie/top-gun-1986)
-- [x] [Abraham Lincoln Vampire Slayer](https://www.imdb.com/title/tt1611224/)
+- [x] [Abraham Lincoln Vampire Slayer](https://reelgood.com/movie/abraham-lincoln-vampire-hunter-2012)
 - [x] :tada:[Fargo](https://reelgood.com/movie/fargo-1996)
 - [x] :tada:[Drop Dead Gorgeous](https://reelgood.com/movie/drop-dead-gorgeous-1999)
 - [x] [Wayne's World](https://reelgood.com/movie/waynes-world-1992)
