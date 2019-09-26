@@ -47,9 +47,8 @@ If you're adding several to group together for an evening, assign them an unused
 ### Blocks
 
 ### Cop Block
-- [ ] [Superbad](https://reelgood.com/movie/superbad-2007)
-- [ ] [Lethal Weapon](https://reelgood.com/movie/lethal-weapon-1987)
-
+- [ ] [Bright](https://reelgood.com/movie/bright-2017)
+- [ ] [Zootopia](https://reelgood.com/movie/zootopia-2016)
 
 ### MTV Block
 - [ ] [Ferris Beullers Day Off](https://reelgood.com/movie/ferris-buellers-day-off-1986)
@@ -134,6 +133,8 @@ If you're adding several to group together for an evening, assign them an unused
 - [X] [Dredd](https://reelgood.com/movie/dredd-2012)
 - [X] [District 9](https://reelgood.com/movie/district-9-2009)
 - [X] [The Usual Suspects](https://reelgood.com/movie/the-usual-suspects-1995)
+- [X] [Superbad](https://reelgood.com/movie/superbad-2007)
+- [X] [Lethal Weapon](https://reelgood.com/movie/lethal-weapon-1987)
 
 #### Christmas Block
 - [x] Die Hard
