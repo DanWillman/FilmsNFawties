@@ -73,9 +73,10 @@ If you're adding several to group together for an evening, assign them an unused
 
 #### Bill Murray
 - [ ] [Garfield](https://reelgood.com/movie/garfield-2004)
-- [ ] Zombieland
-- [ ] Stripes
+- [ ] [Zombieland](https://reelgood.com/movie/zombieland-2009)
+- [ ] [Stripes](https://reelgood.com/movie/stripes-1981)
 - [ ] [Groundhog Day](https://reelgood.com/movie/groundhog-day-1993)
+- [ ] [Caddyshack](https://reelgood.com/movie/caddyshack-1980)
 
 #### Hacker Movies
 - [ ] Hackerman
