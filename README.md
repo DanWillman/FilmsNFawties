@@ -16,19 +16,12 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] :boom:[The Social Network](https://reelgood.com/movie/the-social-network-2010)
 - [ ] :facepunch:[The Last Dragon](https://reelgood.com/movie/the-last-dragon-1985)
 - [ ] :facepunch:[The Gods Must Be Crazy](https://reelgood.com/movie/the-gods-must-be-crazy-1980)
-- [ ] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
-- [ ] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
 - [ ] [Blade Runner 2049](https://reelgood.com/movie/blade-runner-2049-2017)
 - [ ] [Princess Bride](https://reelgood.com/movie/the-princess-bride-1987)
-- [ ] :musical_note:[Detroit Rock City](https://reelgood.com/movie/detroit-rock-city-1999)
-- [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
-- [ ] :musical_note:[Rocky Horror Picture Show](https://reelgood.com/movie/the-rocky-horror-picture-show-1975)
-- [ ] :musical_note:[Little Shop of Horrors](https://reelgood.com/movie/little-shop-of-horrors-1986)
 - [ ] :-1:[Strange Brew](https://reelgood.com/movie/strange-brew-1983)
 - [ ] :-1:[Evil Bong](https://reelgood.com/movie/evil-bong-2006)
 - [ ] [Howard the Duck](https://reelgood.com/movie/howard-the-duck-1986)
 - [ ] Avenue Q 
-- [ ] [Team America](https://reelgood.com/movie/team-america-world-police-2004)
 - [ ] [Dumb and Dumber](https://reelgood.com/movie/dumb-and-dumber-1994)
 - [ ] [Forest Gump](https://www.imdb.com/title/tt0109830/)
 - [ ] [Hardcore Henry](https://reelgood.com/movie/hardcore-henry-2015)
@@ -47,12 +40,18 @@ If you're adding several to group together for an evening, assign them an unused
 ### Blocks
 
 ### Cop Block
-- [ ] [Bright](https://reelgood.com/movie/bright-2017)
-- [ ] [Zootopia](https://reelgood.com/movie/zootopia-2016)
+- [ ] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
+- [ ] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
+- [ ] [Team America](https://reelgood.com/movie/team-america-world-police-2004)
+- [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
+
+### Musical Block
+- [ ] :musical_note:[Detroit Rock City](https://reelgood.com/movie/detroit-rock-city-1999)
+- [ ] :musical_note:[Rocky Horror Picture Show](https://reelgood.com/movie/the-rocky-horror-picture-show-1975)
+- [ ] :musical_note:[Little Shop of Horrors](https://reelgood.com/movie/little-shop-of-horrors-1986)
 
 ### MTV Block
 - [ ] [Ferris Beullers Day Off](https://reelgood.com/movie/ferris-buellers-day-off-1986)
-- [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
 
 #### Keanu Block
 - [ ] [:sunglasses:The Matrix: Revolutions](https://reelgood.com/movie/the-matrix-revolutions-2003)
@@ -147,6 +146,8 @@ If you're adding several to group together for an evening, assign them an unused
 - [X] [The Usual Suspects](https://reelgood.com/movie/the-usual-suspects-1995)
 - [X] [Superbad](https://reelgood.com/movie/superbad-2007)
 - [X] [Lethal Weapon](https://reelgood.com/movie/lethal-weapon-1987)
+- [X] [Bright](https://reelgood.com/movie/bright-2017)
+- [X] [Zootopia](https://reelgood.com/movie/zootopia-2016)
 
 #### Christmas Block
 - [x] [Die Hard](https://reelgood.com/movie/die-hard-1988)
