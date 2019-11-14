@@ -29,19 +29,17 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Dead Poets Society](https://reelgood.com/movie/dead-poets-society-1989)
 - [ ] [Justin Bieber: Never Say Never](https://reelgood.com/movie/justin-bieber-never-say-never-2011)
 - [ ] [Blind Fury](https://reelgood.com/movie/blind-fury-1989)
-- [ ] [Get Out](https://reelgood.com/movie/get-out-2017)
 - [ ] 🧠[Spy Kids](https://reelgood.com/movie/spy-kids-2001)
 - [ ] 🧠[Spy Kids 2](https://reelgood.com/movie/spy-kids-2-the-island-of-lost-dreams-2002)
 - [ ] [Saving Face](https://reelgood.com/movie/saving-face-2004)
 - [ ] [Muppets Treasure Island](https://reelgood.com/movie/muppet-treasure-island-1996)
 - [ ] [Homeward Bound](https://reelgood.com/movie/homeward-bound-the-incredible-journey-1993)
 - [ ] [Spider-man: Into the Spider-Verse](https://reelgood.com/movie/spider-man-into-the-spider-verse-2018)
+- [ ] [The Last Unicorn](https://reelgood.com/movie/the-last-unicorn-1982)
 
 ### Blocks
 
 ### Cop Block
-- [ ] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
-- [ ] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
 - [ ] [Team America](https://reelgood.com/movie/team-america-world-police-2004)
 - [ ] :musical_note:[Blues Brothers](https://reelgood.com/movie/the-blues-brothers-1980)
 
@@ -97,6 +95,10 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Home Alone 2: Lost in New York](https://reelgood.com/movie/home-alone-2-lost-in-new-york-1992)
 
 # Seen
+
+- [x] [Get Out](https://reelgood.com/movie/get-out-2017)
+- [x] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
+- [x] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
 - [x] [Knights of Badassdom](https://reelgood.com/movie/knights-of-badassdom-2013)
 - [x] [Dr. Horrible's Sing-along Blog](https://reelgood.com/show/dr-horribles-sing-along-blog-2008)
 - [x] [The Machine Girl](https://reelgood.com/movie/the-machine-girl-2008)
