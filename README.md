@@ -96,9 +96,6 @@ If you're adding several to group together for an evening, assign them an unused
 
 # Seen
 
-- [x] [Get Out](https://reelgood.com/movie/get-out-2017)
-- [x] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
-- [x] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
 - [x] [Knights of Badassdom](https://reelgood.com/movie/knights-of-badassdom-2013)
 - [x] [Dr. Horrible's Sing-along Blog](https://reelgood.com/show/dr-horribles-sing-along-blog-2008)
 - [x] [The Machine Girl](https://reelgood.com/movie/the-machine-girl-2008)
@@ -150,6 +147,10 @@ If you're adding several to group together for an evening, assign them an unused
 - [X] [Lethal Weapon](https://reelgood.com/movie/lethal-weapon-1987)
 - [X] [Bright](https://reelgood.com/movie/bright-2017)
 - [X] [Zootopia](https://reelgood.com/movie/zootopia-2016)
+- [x] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
+- [x] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
+- [x] [Get Out](https://reelgood.com/movie/get-out-2017)
+- [x] Hocus Pocus
 
 #### Christmas Block
 - [x] [Die Hard](https://reelgood.com/movie/die-hard-1988)
