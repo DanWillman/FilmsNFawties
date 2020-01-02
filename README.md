@@ -36,6 +36,12 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Homeward Bound](https://reelgood.com/movie/homeward-bound-the-incredible-journey-1993)
 - [ ] [Spider-man: Into the Spider-Verse](https://reelgood.com/movie/spider-man-into-the-spider-verse-2018)
 - [ ] [The Last Unicorn](https://reelgood.com/movie/the-last-unicorn-1982)
+- [ ] [The Fuzz](https://reelgood.com/show/the-fuzz-2013)
+- [ ] [Office Space](https://reelgood.com/movie/office-space-1999)
+- [ ] [Galaxy Quest](https://reelgood.com/movie/galaxy-quest-1999)
+- [ ] [Killer Klowns from Outer Space](https://reelgood.com/movie/killer-klowns-from-outer-space-1988)
+- [ ] [They Live](https://reelgood.com/movie/they-live-1988) 
+- [ ] [Short Circuit 2](https://reelgood.com/movie/short-circuit-2-1988)
 
 ### Blocks
 
@@ -61,6 +67,9 @@ If you're adding several to group together for an evening, assign them an unused
 
 #### Schwarzenegger
 - [ ] [Predator ](https://reelgood.com/movie/predator-1987)
+- [ ] [Twins](https://reelgood.com/movie/twins-1988)
+- [ ] [Junior](https://reelgood.com/movie/junior-1994)
+- [ ] [Kindergarten Cop](https://reelgood.com/movie/kindergarten-cop-1990)
 
 #### Austin Powers
 - [ ] [Austin Powers in Goldmember](https://reelgood.com/movie/austin-powers-in-goldmember-2002)
