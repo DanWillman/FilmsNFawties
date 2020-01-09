@@ -42,6 +42,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Killer Klowns from Outer Space](https://reelgood.com/movie/killer-klowns-from-outer-space-1988)
 - [ ] [They Live](https://reelgood.com/movie/they-live-1988) 
 - [ ] [Short Circuit 2](https://reelgood.com/movie/short-circuit-2-1988)
+- [ ] [The Electric Grandmother](https://reelgood.com/movie/the-electric-grandmother-1982)
 
 ### Blocks
 
