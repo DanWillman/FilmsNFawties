@@ -80,7 +80,6 @@ If you're adding several to group together for an evening, assign them an unused
 #### Bill Murray
 - [ ] [Garfield](https://reelgood.com/movie/garfield-2004)
 - [ ] [Zombieland](https://reelgood.com/movie/zombieland-2009)
-- [ ] [Stripes](https://reelgood.com/movie/stripes-1981)
 - [ ] [Groundhog Day](https://reelgood.com/movie/groundhog-day-1993)
 - [ ] [Caddyshack](https://reelgood.com/movie/caddyshack-1980)
 
@@ -161,6 +160,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [x] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
 - [x] [Get Out](https://reelgood.com/movie/get-out-2017)
 - [x] Hocus Pocus
+- [x] [Stripes](https://reelgood.com/movie/stripes-1981)
 
 #### Christmas Block
 - [x] [Die Hard](https://reelgood.com/movie/die-hard-1988)
