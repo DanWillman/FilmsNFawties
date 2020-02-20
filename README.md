@@ -43,6 +43,13 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [They Live](https://reelgood.com/movie/they-live-1988) 
 - [ ] [Short Circuit 2](https://reelgood.com/movie/short-circuit-2-1988)
 - [ ] [The Electric Grandmother](https://reelgood.com/movie/the-electric-grandmother-1982)
+- [ ] [A Very Potter Sequel (Starkid)](https://www.youtube.com/watch?v=OepW-AG-Ris&list=PL86C718AEE71C9DE9)
+- [ ] [A Very Potter Senior Year (Starkid)](https://www.youtube.com/watch?v=a81FO-2TxNg&list=PL57O-EWZ_dWlH4k_-mJoQD5ICb5WXKrFr)
+- [ ] [Twisted (Starkid)](https://www.youtube.com/watch?v=-77cUxba-aA)
+- [ ] [ANI (Starkid)](https://www.youtube.com/watch?v=Ke1B1iAeY2c)
+- [ ] [The Trail to Oregon (Starkid)](https://www.youtube.com/watch?v=BxKCX-UvPrI)
+- [ ] [Holy Musical B@tman! (Starkid)](https://www.youtube.com/watch?v=hmZhMeY5L44&list=PL96B8289ADF77A8C4)
+- [ ] [Starship (Starkid)](https://www.youtube.com/watch?v=dAi0XQPgXmQ&list=PLC6A915952D67F112)
 
 ### Blocks
 
