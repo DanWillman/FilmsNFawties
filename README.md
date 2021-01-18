@@ -47,6 +47,13 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [They Live](https://reelgood.com/movie/they-live-1988)
 - [ ] [Short Circuit 2](https://reelgood.com/movie/short-circuit-2-1988)
 - [ ] [The Electric Grandmother](https://reelgood.com/movie/the-electric-grandmother-1982)
+- [ ] [A Very Potter Sequel (Starkid)](https://www.youtube.com/watch?v=OepW-AG-Ris&list=PL86C718AEE71C9DE9)
+- [ ] [A Very Potter Senior Year (Starkid)](https://www.youtube.com/watch?v=a81FO-2TxNg&list=PL57O-EWZ_dWlH4k_-mJoQD5ICb5WXKrFr)
+- [ ] [Twisted (Starkid)](https://www.youtube.com/watch?v=-77cUxba-aA)
+- [ ] [ANI (Starkid)](https://www.youtube.com/watch?v=Ke1B1iAeY2c)
+- [ ] [The Trail to Oregon (Starkid)](https://www.youtube.com/watch?v=BxKCX-UvPrI)
+- [ ] [Holy Musical B@tman! (Starkid)](https://www.youtube.com/watch?v=hmZhMeY5L44&list=PL96B8289ADF77A8C4)
+- [ ] [Starship (Starkid)](https://www.youtube.com/watch?v=dAi0XQPgXmQ&list=PLC6A915952D67F112)
 - [ ] [The World's End](https://reelgood.com/movie/the-worlds-end-2013)
 - [ ] [The Hitchhiker's Guide to the Galaxy](https://reelgood.com/movie/the-hitchhikers-guide-to-the-galaxy-2005)
 - [ ] [Kung Fu Hustle](https://reelgood.com/movie/kung-fu-hustle-2004)
@@ -96,7 +103,6 @@ If you're adding several to group together for an evening, assign them an unused
 
 - [ ] [Garfield](https://reelgood.com/movie/garfield-2004)
 - [ ] [Zombieland](https://reelgood.com/movie/zombieland-2009)
-- [ ] [Stripes](https://reelgood.com/movie/stripes-1981)
 - [ ] [Groundhog Day](https://reelgood.com/movie/groundhog-day-1993)
 - [ ] [Caddyshack](https://reelgood.com/movie/caddyshack-1980)
 
@@ -188,6 +194,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [x] [Get Out](https://reelgood.com/movie/get-out-2017)
 - [x] [Hocus Pocus](https://reelgood.com/movie/hocus-pocus-1993)
 - [x] [Jojo Rabbit](https://reelgood.com/movie/jojo-rabbit-2019)
+- [x] [Stripes](https://reelgood.com/movie/stripes-1981)
 
 #### Christmas Block
 
