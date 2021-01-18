@@ -57,6 +57,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [The World's End](https://reelgood.com/movie/the-worlds-end-2013)
 - [ ] [The Hitchhiker's Guide to the Galaxy](https://reelgood.com/movie/the-hitchhikers-guide-to-the-galaxy-2005)
 - [ ] [Kung Fu Hustle](https://reelgood.com/movie/kung-fu-hustle-2004)
+- [ ] [Logan](https://reelgood.com/movie/logan-2017)
 
 ### Blocks
 
