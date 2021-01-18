@@ -71,7 +71,7 @@ If you're adding several to group together for an evening, assign them an unused
 ### Keanu Block
 
 - [ ] [:sunglasses:The Matrix: Revolutions](https://reelgood.com/movie/the-matrix-revolutions-2003)
-- [] [John Wick: Chapter 3 - Parabellum](https://reelgood.com/movie/john-wick-chapter-3-parabellum-2019)
+- [ ] [John Wick: Chapter 3 - Parabellum](https://reelgood.com/movie/john-wick-chapter-3-parabellum-2019)
 
 ### Nic Cage
 
@@ -122,7 +122,7 @@ If you're adding several to group together for an evening, assign them an unused
 - [ ] [Home Alone](https://reelgood.com/movie/home-alone-1990)
 - [ ] [Home Alone 2: Lost in New York](https://reelgood.com/movie/home-alone-2-lost-in-new-york-1992)
 
-### The Booty Block :moneybag:
+### Booty Block :moneybag:
 
 - [ ] :anchor:[Pirates of the Caribbean: The Curse of the Black Pearl](https://reelgood.com/movie/pirates-of-the-caribbean-the-curse-of-the-black-pearl-2003)
 - [ ] :anchor:[Pirates of the Caribbean: Dead Man's Chest](https://reelgood.com/movie/pirates-of-the-caribbean-dead-mans-chest-2006)
@@ -186,7 +186,8 @@ If you're adding several to group together for an evening, assign them an unused
 - [x] :poop:[Paul Blart](https://reelgood.com/movie/paul-blart-mall-cop-2009)
 - [x] :poop:[Paul Blart 2](https://reelgood.com/movie/paul-blart-mall-cop-2-2015)
 - [x] [Get Out](https://reelgood.com/movie/get-out-2017)
-- [x] Hocus Pocus
+- [x] [Hocus Pocus](https://reelgood.com/movie/hocus-pocus-1993)
+- [x] [Jojo Rabbit](https://reelgood.com/movie/jojo-rabbit-2019)
 
 #### Christmas Block
 
