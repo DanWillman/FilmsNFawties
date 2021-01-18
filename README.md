@@ -8,7 +8,7 @@ Example:
 
 - [ ] [Top Gun](https://reelgood.com/movie/top-gun-1986)
 
-If you're adding several to group together for an evening, assign them an unused emoji to show the pariing.
+If you're adding several to group together for an evening, assign them an unused emoji to show the pairing.
 
 ## To Watch
 
